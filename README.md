@@ -12,30 +12,14 @@ system (CURD). It's a Tailwind-styled page and PostCSS plugin used for maximum b
 - Responsive, compatible to all major browser and version.
 - Admin dashboad and admin control.
 - Guest Login.
-- Reusable, clever, best-practice coding.
-- and more...
 
 ### Foundation Technology
 
-- UI/UX Design
 - HTML5
-- Tailwind
-- PostCSS
+- CSS
 - MySQL
 - PHP
 - Laravel
-- jQuery
-
-## Live URL
-[foodfun-asraf2asif.000webhostapp.com](https://foodfun-asraf2asif.000webhostapp.com)
-
-## Credit
-- Design Inspiration - [colorlib](https://colorlib.com/wp/template/foodfun/)
-- Image from - [unsplash](https://unsplash.com/)
-
-## Author & copyright
-
-This project is owned by [Asraf2asif](https://github.com/Asraf2asif) for this [portfolio](https://asraf2asif-portfolio.vercel.app/)
 
 ## Screenshot
 
